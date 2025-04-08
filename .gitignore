@@ -1,8 +1,9 @@
 # Generated files
 *.mocks.dart
-*.g.dart
-android/**/generated/
-ios/**/Generated/
+# Publish pidgeon files to git, as pub.dev contains it but git dont
+# *.g.dart
+# android/**/generated/
+# ios/**/Generated/
 
 # Miscellaneous
 *.class
